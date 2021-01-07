@@ -1,0 +1,3 @@
+print('''ABC
+XYXZ
+PQR''')
